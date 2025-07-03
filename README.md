@@ -67,11 +67,11 @@ It concludes with a clean, interactive dashboard for non-technical business user
 ## 📈 Dashboard Features
 
 Includes:
-- KPI Cards (Total Products, Avg. Rating, Total Reviews)
+- KPI Cards (Total Potential Revenue, Total Products, Total Rating, Total Discounted Percentage Total Reviews)
 - Bar Charts (Reviews per Category, Discounts per Category)
 - Price Distribution Pie Chart
 - Scatter Chart (Rating vs Discount %)
-- Top Products Table
+- Top 10 Products Table
 - Business Recommendations
 
 ---
@@ -89,8 +89,8 @@ Includes:
 
 | File | Description |
 |------|-------------|
-| `Cleaned_Amazon_Product_Review_Analysis.xlsx` | Full analysis workbook |
-| `Top_10_Products` Sheet | Highest rated products |
+| `Cleaned Amazon Product Review Analysis.xlsx` | Full analysis workbook |
+| `Top 10 Products` Sheet | Highest rated products |
 | `Rating_Discount_Chart` Sheet | Scatter chart with trendline |
 | `README.md` | This documentation file |
 
@@ -98,17 +98,8 @@ Includes:
 
 ## 🧑‍💼 Author
 
-**Mr. Chinedu**  
-Junior Data Analyst | RetailTech Insights  
+**Mr. Chinedu Peter Onwuchekwa** 
++2348038600535
+Junior Data Analyst  
 [GitHub Profile](#)
 
----
-
-## 🏁 How to Use
-
-1. Open the Excel file  
-2. Navigate to sheets:
-   - `Cleaned_Data`
-   - `Top_10_Products`
-   - `Rating_Discount_Chart`
-3. Review dashboard visuals and recommendations
