@@ -1,6 +1,5 @@
-# amazon-product-review-analysis
-DSA project analyzing Amazon product reviews, ratings, and discounts
-# 🛒 Amazon Product Review Analysis using Excel 2016
+# Amazon Product Review Analysis
+A DSA project analyzing Amazon product reviews, ratings, and discounts
 
 ## 📍 Overview
 
@@ -10,7 +9,7 @@ This project analyzes Amazon product data to uncover insights into:
 - Category-wise performance
 - Revenue potential
 
-The analysis was completed using **Microsoft Excel 2016** features such as:
+The analysis was completed using **Microsoft Excel** features such as:
 - Pivot Tables
 - Helper columns and formulas
 - Scatter charts with trendlines
@@ -55,7 +54,7 @@ It concludes with a clean, interactive dashboard for non-technical business user
 
 ## 🔧 Tools & Techniques
 
-- **Excel 2016** (100% feature compatible)
+- **Microsoft Excel**
 - Pivot Tables & Charts
 - Calculated Columns
 - Scatter Plot with Trendline
@@ -71,7 +70,6 @@ Includes:
 - Bar Charts (Reviews per Category, Discounts per Category)
 - Price Distribution Pie Chart
 - Scatter Chart (Rating vs Discount %)
-- Top 10 Products Table
 - Business Recommendations
 
 ---
@@ -99,7 +97,7 @@ Includes:
 ## 🧑‍💼 Author
 
 **Mr. Chinedu Peter Onwuchekwa** 
-+2348038600535
-Junior Data Analyst  
+nedusparkle@gmail.com
+
 [GitHub Profile](#)
 
