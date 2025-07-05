@@ -88,8 +88,7 @@ Includes:
 | File | Description |
 |------|-------------|
 | `Cleaned Amazon Product Review Analysis.xlsx` | Full analysis workbook |
-| `Top 10 Products` Sheet | Highest rated products |
-| `Rating_Discount_Chart` Sheet | Scatter chart with trendline |
+| `Amazon Product Review Dashboard.png`  | dashboard with KPI, charts and recommendation |
 | `README.md` | This documentation file |
 
 ---
