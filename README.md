@@ -87,7 +87,7 @@ Includes:
 
 | File | Description |
 |------|-------------|
-| `Cleaned Amazon Product Review Analysis.xlsx` | Full analysis workbook |
+| `Cleaned Amazon Product Review Analysis.zip` | Full analysis workbook |
 | `Amazon Product Review Dashboard.png`  | dashboard with KPI, charts and recommendation |
 | `README.md` | This documentation file |
 
